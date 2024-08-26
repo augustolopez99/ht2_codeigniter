@@ -1,0 +1,424 @@
+CRITICAL - 2024-08-26 02:33:11 --> ErrorException: Undefined variable $niveldb
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 20.
+ 1 APPPATH\Views\Niveles.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $niveldb', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 20)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:33:23 --> ErrorException: Undefined variable $niveldb
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 20.
+ 1 APPPATH\Views\Niveles.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $niveldb', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 20)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:34:59 --> ErrorException: Undefined variable $niveldb
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 21.
+ 1 APPPATH\Views\Niveles.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $niveldb', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:35:30 --> ErrorException: Undefined variable $niveldb
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 21.
+ 1 APPPATH\Views\Niveles.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $niveldb', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:35:31 --> ErrorException: Undefined variable $niveldb
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 21.
+ 1 APPPATH\Views\Niveles.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $niveldb', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:35:31 --> ErrorException: Undefined variable $niveldb
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 21.
+ 1 APPPATH\Views\Niveles.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $niveldb', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:36:55 --> ErrorException: Undefined variable $niveldb
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 21.
+ 1 APPPATH\Views\Niveles.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $niveldb', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:37:03 --> ErrorException: Undefined variable $niveldb
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 21.
+ 1 APPPATH\Views\Niveles.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $niveldb', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:38:42 --> ErrorException: Undefined array key "descripción"
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 26.
+ 1 APPPATH\Views\Niveles.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripción"', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:38:44 --> ErrorException: Undefined array key "descripción"
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 26.
+ 1 APPPATH\Views\Niveles.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripción"', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:38:44 --> ErrorException: Undefined array key "descripción"
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 26.
+ 1 APPPATH\Views\Niveles.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripción"', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:38:44 --> ErrorException: Undefined array key "descripción"
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 26.
+ 1 APPPATH\Views\Niveles.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripción"', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:38:44 --> ErrorException: Undefined array key "descripción"
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 26.
+ 1 APPPATH\Views\Niveles.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripción"', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:40:30 --> ErrorException: Undefined array key "descripción"
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 26.
+ 1 APPPATH\Views\Niveles.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripción"', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:40:31 --> ErrorException: Undefined array key "descripción"
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 26.
+ 1 APPPATH\Views\Niveles.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripción"', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:40:31 --> ErrorException: Undefined array key "descripción"
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 26.
+ 1 APPPATH\Views\Niveles.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripción"', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:40:31 --> ErrorException: Undefined array key "descripción"
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 26.
+ 1 APPPATH\Views\Niveles.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripción"', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:40:31 --> ErrorException: Undefined array key "descripción"
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 26.
+ 1 APPPATH\Views\Niveles.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripción"', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:40:31 --> ErrorException: Undefined array key "descripción"
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 26.
+ 1 APPPATH\Views\Niveles.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripción"', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:40:40 --> ErrorException: Undefined array key "descripción"
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 26.
+ 1 APPPATH\Views\Niveles.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripción"', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:40:56 --> ErrorException: Undefined array key "descripción"
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 26.
+ 1 APPPATH\Views\Niveles.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripción"', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:41:00 --> ErrorException: Undefined array key "descripción"
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 26.
+ 1 APPPATH\Views\Niveles.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripción"', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 02:43:02 --> ErrorException: Undefined array key "descripción"
+[Method: GET, Route: ver_nivel]
+in APPPATH\Views\Niveles.php on line 26.
+ 1 APPPATH\Views\Niveles.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "descripción"', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php', 26)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Niveles.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Niveles', [], true)
+ 5 APPPATH\Controllers\ControladorNivel.php(15): view('Niveles', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorNivel->verNivel()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorNivel))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 04:48:43 --> ErrorException: Undefined variable $ciudadanobd
+[Method: GET, Route: ver_departamento]
+in APPPATH\Views\Departamentos.php on line 21.
+ 1 APPPATH\Views\Departamentos.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ciudadanobd', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Departamentos.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Departamentos.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Departamentos', [], true)
+ 5 APPPATH\Controllers\ControladorDepartamento.php(15): view('Departamentos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorDepartamento->verDepartamento()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorDepartamento))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 04:49:12 --> ErrorException: Undefined variable $ciudadanobd
+[Method: GET, Route: ver_departamento]
+in APPPATH\Views\Departamentos.php on line 21.
+ 1 APPPATH\Views\Departamentos.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ciudadanobd', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Departamentos.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Departamentos.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Departamentos', [], true)
+ 5 APPPATH\Controllers\ControladorDepartamento.php(15): view('Departamentos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorDepartamento->verDepartamento()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorDepartamento))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 04:49:26 --> ErrorException: Undefined variable $ciudadanobd
+[Method: GET, Route: ver_departamento]
+in APPPATH\Views\Departamentos.php on line 21.
+ 1 APPPATH\Views\Departamentos.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ciudadanobd', 'C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Departamentos.php', 21)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\PCC2024\\ht2_codeigniter\\app\\Views\\Departamentos.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Departamentos', [], true)
+ 5 APPPATH\Controllers\ControladorDepartamento.php(15): view('Departamentos', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorDepartamento->verDepartamento()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorDepartamento))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 05:23:37 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Municipioss.php"
+[Method: GET, Route: ver_municipio]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Municipioss.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Municipioss', [], true)
+ 3 APPPATH\Controllers\ControladorMunicipio.php(15): view('Municipioss', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorMunicipio->verMunicipio()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMunicipio))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 05:23:45 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Municipios.php"
+[Method: GET, Route: ver_municipio]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Municipios.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Municipios', [], true)
+ 3 APPPATH\Controllers\ControladorMunicipio.php(15): view('Municipios', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorMunicipio->verMunicipio()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMunicipio))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 05:24:27 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Municipios.php"
+[Method: GET, Route: ver_municipio]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Municipios.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Municipios', [], true)
+ 3 APPPATH\Controllers\ControladorMunicipio.php(15): view('Municipios', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorMunicipio->verMunicipio()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMunicipio))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 05:26:35 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Municipios.php"
+[Method: GET, Route: ver_municipio]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Municipios.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Municipios', [], true)
+ 3 APPPATH\Controllers\ControladorMunicipio.php(15): view('Municipios', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorMunicipio->verMunicipio()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMunicipio))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-08-26 05:28:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Municipios.php"
+[Method: GET, Route: ver_municipio]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Municipios.php')
+ 2 SYSTEMPATH\Common.php(1169): CodeIgniter\View\View->render('Municipios', [], true)
+ 3 APPPATH\Controllers\ControladorMunicipio.php(15): view('Municipios', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ControladorMunicipio->verMunicipio()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ControladorMunicipio))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
